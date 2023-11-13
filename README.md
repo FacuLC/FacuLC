@@ -2,10 +2,8 @@
 <h3 align="center">Tecnicatura Universitaria en Programación</h3>
 
 <div align="center">
-  <img height="200" width="400"; src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952gi5otavanunfwx768msbz9475tgj8cy4tr5p98h4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="200" width="400"; src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952gi5otavanunfwx768msbz9475tgj8cy4tr5p98h4&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
-
-###
 
 - 📫 Puedes Contactarme vía: **facundocano79@gmail.com**
 <p align="left">
